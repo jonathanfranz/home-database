@@ -21,4 +21,5 @@ public class User {
     @NotEmpty
     @Digits(integer = 4, fraction = 0)
     String pinCode;
+    
 }
