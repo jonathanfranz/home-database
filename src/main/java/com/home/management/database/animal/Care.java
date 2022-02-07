@@ -1,4 +1,4 @@
-package com.home.management.database.animals;
+package com.home.management.database.animal;
 
 import lombok.Builder;
 import lombok.Data;

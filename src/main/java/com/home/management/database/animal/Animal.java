@@ -1,4 +1,4 @@
-package com.home.management.database.animals;
+package com.home.management.database.animal;
 
 
 import lombok.Builder;
@@ -16,7 +16,7 @@ import java.util.List;
 public class Animal {
     @NotNull
     Long id;
-    @NotEmpty 
+    @NotEmpty
     String name;
     @NotNull
     LocalDate birthDate;

@@ -1,4 +1,4 @@
-package com.home.management.database.animals;
+package com.home.management.database.animal;
 
 
 public enum AnimalType {

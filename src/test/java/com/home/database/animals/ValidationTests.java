@@ -1,9 +1,9 @@
 package com.home.database.animals;
 
 
-import com.home.management.database.animals.Animal;
-import com.home.management.database.animals.AnimalType;
-import com.home.management.database.animals.Care;
+import com.home.management.database.animal.Animal;
+import com.home.management.database.animal.AnimalType;
+import com.home.management.database.animal.Care;
 import org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator;
 import org.junit.Before;
 import org.junit.Test;
