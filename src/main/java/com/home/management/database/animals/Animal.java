@@ -16,7 +16,7 @@ import java.util.List;
 public class Animal {
     @NotNull
     Long id;
-    @NotEmpty
+    @NotEmpty 
     String name;
     @NotNull
     LocalDate birthDate;
